@@ -1,3 +1,5 @@
+# HI , I'm Abdul Mazith
+
 # 💫 About Me:
 👨‍💻 Passionate Flutter developer focused on building smooth, responsive web & mobile apps<br>🧠 Experienced in AI & LLM integration like Gemini and ChatGPT<br>🧱 I follow Clean Architecture principles and use GetX for efficient state management<br>💳 Skilled in Razorpay payment integration and real-world feature development<br>🎯 I love turning ideas into real products with clean code and great UI/UX<br>🚀 Constantly learning and growing as a developer
 
@@ -22,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=abdulmazith-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulmazith-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdulmazith-coder&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
